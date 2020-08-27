@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: rumrog.com
+Token: 62c07597e794e07bfa6f31f5da09b7b25c3076861f21b7056443013219580275
